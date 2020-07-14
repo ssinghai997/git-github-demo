@@ -1,0 +1,4 @@
+follow the instructions to work with this web project
+this project is done using Dot Net Core
+It is an MVC project
+The database
